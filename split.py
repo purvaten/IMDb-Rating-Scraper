@@ -67,25 +67,3 @@ if rating_span is None:
 
 #Displaying rating
 print("The rating is "+rating_span.string)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
